@@ -1,0 +1,9 @@
+.idea/
+
+data/
+
+__pycache__/
+
+geometry_translation/checkpoints/
+
+geometry_translation/results/
