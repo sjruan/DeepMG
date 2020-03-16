@@ -1,0 +1,25 @@
+{
+  "dataset": {
+    "dataset_name": "tdrive_sample",
+    "min_lat": 39.8451,
+    "min_lng": 116.2810,
+    "max_lat": 39.9890,
+    "max_lng": 116.4684,
+    "nb_rows": 8192,
+    "nb_cols": 8192
+  },
+  "feature_extraction": {
+    "nbhd_dist": 300,
+    "nbhd_size": 8,
+    "tile_pixel_size": 256,
+    "test_tile_row_min": 12,
+    "test_tile_row_max": 22,
+    "test_tile_col_min": 3,
+    "test_tile_col_max": 13
+  },
+  "topology_construction": {
+    "link_radius": 50,
+    "alpha": 1.4,
+    "min_supp": 5
+  }
+}
