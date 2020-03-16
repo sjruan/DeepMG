@@ -73,7 +73,7 @@ Note that `gdal` must be installed first, and a restart might be required after 
 
 * Trajectory Data
     * There are some open-source trajectory datasets, e.g., [TDrive](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/).
-    * Data should be organized as text files. A text file can contain several trajectories (refer to [sample.txt.template](https://github.com/sjruan/DeepMG/data/tdrive_sample/traj/sample.txt.template))
+    * Data should be organized as text files. A text file can contain several trajectories (refer to [sample.txt.template](https://github.com/sjruan/DeepMG/blob/master/data/tdrive_sample/traj/sample.txt.template))
     
 * Road Network Data
     * [OpenStreetMap (OSM)](https://www.openstreetmap.org/) is an open-source map data source
